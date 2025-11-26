@@ -1,0 +1,9 @@
+name: dsci522-docker-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair=6.0.0
+  - pandas=2.3.3
+  - python=3.11
+
